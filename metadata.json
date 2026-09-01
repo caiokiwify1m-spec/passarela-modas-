@@ -1,0 +1,6 @@
+{
+  "name": "Passarela Modas - Digital Flagship",
+  "description": "Curadoria exclusiva de moda feminina e acessórios de luxo em Diamantina desde 2000. Tradição, sofisticação e atendimento personalizado.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
